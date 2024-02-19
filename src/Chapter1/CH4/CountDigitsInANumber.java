@@ -29,8 +29,8 @@ public class CountDigitsInANumber {
     //best approach-> TC: O()
     public static void main(String[] args) {
         int number=234545;
-  int count=0;
-      count=(int) Math.log10(number)+1;
+
+     int count=(int) Math.log10(number)+1;
         System.out.println(count);
     }
 
