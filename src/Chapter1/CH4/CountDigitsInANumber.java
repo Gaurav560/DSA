@@ -26,7 +26,7 @@ public class CountDigitsInANumber {
 
 
 
-    //best approach-> TC: O()
+    //best approach-> TC: O(1)
     public static void main(String[] args) {
         int number=234545;
 
