@@ -24,7 +24,8 @@ public class FibonacciSeries {
 
 
 
-
+//tc: O(2^N) ans sc: O(N)  At maximum there could be N function calls waiting in the recursion stack since we need to calculate the Nth Fibonacci
+// number for which we also need to calculate (N-1) Fibonacci numbers before it
     static int findFibonacci(int n){
 
         if (n==0 || n==1){
