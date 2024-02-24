@@ -1,4 +1,4 @@
-package Chapter1.CH5Recursion;
+package Chapter1.CH5BasicRecursion;
 
 public class PalindromeStringCheck {
 
@@ -30,7 +30,7 @@ public class PalindromeStringCheck {
 
     //tc and sc: O(N)
     public boolean palindromeCheck(int i, String str) {
-        if (i >= str.length()) {
+        if (i >= str.length()/2) {
             return true;
         }
         if (str.charAt(i) != str.charAt(str.length() - i - 1)) {

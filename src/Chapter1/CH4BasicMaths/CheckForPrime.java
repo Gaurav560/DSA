@@ -1,4 +1,4 @@
-package Chapter1.CH4;
+package Chapter1.CH4BasicMaths;
 
 public class CheckForPrime {
 

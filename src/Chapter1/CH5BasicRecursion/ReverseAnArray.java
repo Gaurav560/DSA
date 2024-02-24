@@ -1,4 +1,4 @@
-package Chapter1.CH5Recursion;
+package Chapter1.CH5BasicRecursion;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package Chapter1.CH4;
+package Chapter1.CH4BasicMaths;
 
 import java.util.ArrayList;
 import java.util.List;

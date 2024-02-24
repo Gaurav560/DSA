@@ -1,4 +1,4 @@
-package Chapter1.CH4;
+package Chapter1.CH4BasicMaths;
 
 //tc: O(N) as O(N) for finding power and O(N) for finding sum .which results in  O(N)+O(N)=>O(N)
 public class ArmstrongNumber {
